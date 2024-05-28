@@ -10,3 +10,8 @@ app = Flask(__name__)
 def root_url():
     """Hello, World!"""
     return render_template('0-index.html')
+
+
+if __name__ == "__main__":
+    app.run()
+    

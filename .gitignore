@@ -3,3 +3,4 @@ Popular_Baby_Names.csv
 __pycache__/
 babel_venv/
 node_modules/
+main.js
